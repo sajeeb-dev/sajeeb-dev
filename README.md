@@ -1,62 +1,53 @@
-# 👋 Hi, I'm Md. Sajeeb
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🎯 **Aspiring Cyber Security Specialist** | 💻 **Android Developer (Beginner)** | 🎓 **Diploma Student in Engineering**
+###
 
----
+<p align="left">👋 Hi, I'm Md. Sajeeb<br><br>💻 **Android Developer (Beginner)** <br><br>🎓 **Diploma Student in Engineering**</p>
 
-## 🧠 About Me
+###
 
-- 🌱 Currently learning **Android App Development** and **Cyber Security**  
-- 📘 Studying at **Kishorganj Polytechnic Institute**  
-- 🏫 Completed **SSC** from *Kazi Azhar Ali Govt. Model High School* (GPA 4.22, 2021)  
-- 💬 Ask me about **Kotlin**, **Android Studio**, or **basic cybersecurity concepts**  
-- 🌍 From **Kalpani, Bonarpara, Saghata, Gaibandha, Bangladesh**  
-- ⚡ Fun fact: I love learning new tech every day and building small projects to improve my skills!
+<h2 align="left">About me</h2>
 
----
+###
 
-## 🛠️ Skills & Tools
+<p align="left">🌱 Currently learning **Android App Development**<br><br>📘 Studying at **Kishorganj Polytechnic Institute**  <br><br>💬 Ask me about **Kotlin, Java**, **Android Studio**<br><br>🌍 From **Kalpani, Bonarpara, Saghata, Gaibandha, Bangladesh** <br><br>⚡ Fun fact: I love learning new tech every day and building small projects to improve my skills!</p>
 
-### 💻 Programming & Tech
-- Kotlin  
-- Java (Basics)  
-- XML (Android UI Design)  
-- Microsoft Word & Excel  
-- Git & GitHub  
+###
 
-### 🧩 Soft Skills
-- Teamwork 🤝  
-- Problem Solving 💡  
-- Communication 🗣️  
-- Quick Learner ⚡  
+<h2 align="left">I code with</h2>
 
----
+###
 
-## 📱 Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-| Project Name | Description | Tech |
-|---------------|--------------|------|
-| **Quiz App** | A simple Android quiz app with multiple-choice questions and score tracking. | Kotlin, XML |
-| **Calculator** | Basic calculator app with user-friendly UI and functional buttons. | Kotlin, XML |
-| **MP3 Player** | Lightweight music player app prototype. | Kotlin |
+###
 
----
 
-## 📊 GitHub Stats
 
-![Sajeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
----
-
-## 📫 Connect With Me
-
-- 📞 **Phone:** 01405432292  
-- 📧 **Email:** *(Add your professional email here)*  
-- 💼 **LinkedIn:** *(Add your LinkedIn profile link)*  
-- 🌐 **Portfolio (Coming Soon!)*  
-
----
-
-⭐ **“Keep learning, keep building, and keep growing.”**  
+###
